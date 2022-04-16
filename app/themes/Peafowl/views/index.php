@@ -82,7 +82,7 @@
 <a href="<?php echo G_APP_GITHUB_REPO_URL; ?>" rel="generator" target="_blank"><?php echo G_APP_GITHUB_REPO; ?>
 </a>
 <br>
-粤ICP备20071434号 Copyright©版权所有 2020 vito
+粤ICP备20071434号 Copyright©版权所有 2020 Littletrue
 </div>
 
 <?php G\Render\include_theme_footer(); ?>
