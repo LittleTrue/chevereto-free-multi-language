@@ -78,6 +78,10 @@
 <?php
             } ?>
 
-<div class="footer"><?php _se('Powered by'); ?> <a href="<?php echo G_APP_GITHUB_REPO_URL; ?>" rel="generator" target="_blank"><?php echo G_APP_GITHUB_REPO; ?></a></div>
+<div class="footer"><?php _se('Powered by'); ?>
+<a href="<?php echo G_APP_GITHUB_REPO_URL; ?>" rel="generator" target="_blank"><?php echo G_APP_GITHUB_REPO; ?>
+</a>
+粤ICP备20071434号 Copyright©版权所有 2020 vito
+</div>
 
 <?php G\Render\include_theme_footer(); ?>
